@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91a4f42b-6225-41e8-af51-412f6bae15e8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1W50YxXxfZL6K0p2GFKQb2GcykU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vids" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91a4f42b-6225-41e8-af51-412f6bae15e8" name="Default Changelist" comment="" />
+      <created>1578424199616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578424199616</updated>
+      <workItem from="1578424202141" duration="921000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="646" y="306" width="688" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578424903979">
+      <screen x="70" y="27" width="1850" height="948" />
+    </state>
+    <state x="646" y="306" width="688" height="397" key="#com.intellij.fileTypes.FileTypeChooser/70.27.1850.948@70.27.1850.948" timestamp="1578424903979" />
+    <state x="658" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1578424214217">
+      <screen x="70" y="27" width="1850" height="948" />
+    </state>
+    <state x="658" y="233" width="672" height="678" key="search.everywhere.popup/70.27.1850.948@70.27.1850.948" timestamp="1578424214217" />
+  </component>
+</project>
